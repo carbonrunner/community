@@ -2,7 +2,12 @@
 
 Welcome to the CarbonRunner Community!  
 
-This repo is the central place for **Discussions, feedback, and ideas** around building faster, cheaper, and greener CI/CD with CarbonRunner.  
+This repo is the central place for [**Discussions, feedback, and ideas**](https://github.com/orgs/carbonrunner/discussions) around building faster, cheaper, and greener CI/CD with CarbonRunner.  
+
+---
+
+## 🌟 Get Started
+Head over to [Discussions](https://github.com/orgs/carbonrunner/discussions) and introduce yourself — tell us what you’re building and how you think about **greener DevOps**.
 
 ---
 
@@ -17,7 +22,7 @@ This repo is the central place for **Discussions, feedback, and ideas** around b
 
 ## 🚦 How to Use This Repo
 
-1. Go to the [Discussions tab](./discussions).  
+1. Go to the [Discussions tab](https://github.com/orgs/carbonrunner/discussions).  
 2. Choose the right category:  
    - 💡 Ideas  
    - ❓ Q&A  
@@ -30,7 +35,7 @@ This repo is the central place for **Discussions, feedback, and ideas** around b
 ## 🐞 Issues vs. Discussions
 
 - **Issues** → For bugs, feature requests, or Action-specific problems → [carbonrunner-action/issues](https://github.com/carbonrunner/carbonrunner-action/issues)  
-- **Discussions** → For open conversation, questions, and brainstorming → right here  
+- **Discussions** → For open conversation, questions, and brainstorming → [right here](https://github.com/orgs/carbonrunner/discussions)
 
 ---
 
@@ -41,7 +46,4 @@ This repo is the central place for **Discussions, feedback, and ideas** around b
 - Keep posts on-topic (CI/CD, sustainability, CarbonRunner)  
 - No spam or self-promo  
 
----
 
-## 🌟 Get Started
-Head over to [Discussions](./discussions) and introduce yourself — tell us what you’re building and how you think about **greener DevOps**.
